@@ -1,16 +1,92 @@
-## Hi there 👋
+# Hi, I'm Dan :D
 
-<!--
-**damgataum/damgataum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Creative Developer • Teacher • Maker • Scientist
 
-Here are some ideas to get you started:
+I build software, learning experiences, and creative projects that help people make things, learn things, and enjoy the process.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently based in Berlin 🇩🇪
+
+---
+
+## Tech Stack
+
+### Languages
+
+Ruby • JavaScript • Python • SQL
+
+### Data & Science
+
+NumPy • Pandas • Xarray • Matplotlib • NetCDF • GRIB • WRF
+
+### Web & Software
+
+Ruby on Rails • Git • Linux • Docker • Kubernetes
+
+### Creative Tools
+
+Unity • Figma • Procreate • Affinity
+
+---
+
+## Background
+
+* Mechanical Engineer
+* MSc Physics (Atmospheric Physics)
+* University Lecturer
+* Data Scientist
+* Software Developer
+
+I've worked in:
+
+🌤 Weather & Climate
+🌬 Wind Energy
+💻 Software Development
+📚 Education & Training
+
+
+---
+
+## Currently Learning
+
+- Advanced Ruby on Rails
+- TypeScript
+- Product Design
+- AI Engineering
+- Yoga Teaching
+
+---
+
+## Current Interests
+
+* Educational technology
+* AI applications
+* Habit & learning systems
+* Drawing & visual storytelling
+* Music: piano & singing
+* Yoga and movement
+
+---
+
+## Bule Made
+
+Bule Made is my creative studio where technology, education, and creativity meet.
+
+Mission:
+
+> Create what I wish existed.
+
+I build software, educational content, videos, workshops, and creative experiments designed to help people learn, create, and spend less time mindlessly scrolling.
+
+---
+
+## Connect
+
+* [LinkedIn](https://www.linkedin.com/in/danielvgsantos)
+* [Instagram](https://www.instagram.com/bule_made)
+
+---
+
+*"Progress over perfection. Curiosity over certainty."*
+
+
+![GitHub Stats](https://ghstats.dev/api/card?username=damgataum)
