@@ -6,6 +6,8 @@ I build software, learning experiences, and creative projects that help people m
 
 Currently based in Berlin 🇩🇪
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=damgataum.damgataum&left_text=curious%20souls)
+
 ---
 
 ## Tech Stack
@@ -83,10 +85,3 @@ I build software, educational content, videos, workshops, and creative experimen
 
 * [LinkedIn](https://www.linkedin.com/in/danielvgsantos)
 * [Instagram](https://www.instagram.com/bule_made)
-
----
-
-*"Progress over perfection. Curiosity over certainty."*
-
-
-![GitHub Stats](https://ghstats.dev/api/card?username=damgataum)
