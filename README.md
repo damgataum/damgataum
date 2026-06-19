@@ -2,10 +2,6 @@
 
 ### Creative Developer • Teacher • Maker • Scientist
 
-I build software, learning experiences, and creative projects that help people make things, learn things, and enjoy the process.
-
-Currently based in Berlin 🇩🇪
-
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=damgataum.damgataum&left_text=curious%20souls)
 
 ---
